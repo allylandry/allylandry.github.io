@@ -51,21 +51,7 @@ nav li a {
   vertical-align: left;
   font-size: 18px;
 }
-.red{
-  color: red;
-}
-.blue{
-  color: blue;
-}
-.black{
-  color: black;
-}
-.green{
-  color: green;
-}
-a {
-  color: ;
-}
+
 article {
   width: 860px;
   background-color: #AFEEEE;
@@ -73,7 +59,7 @@ article {
   text-align: left;
   min-height: 70%;
   color: #191970;
-  padding-top: 25px;
+  padding-top: 40px 40px;
 }
 aside {
   width: 17%;
@@ -84,13 +70,4 @@ aside {
 }
 aside ul {
   list-style-type: none;
-}
-footer {
-  width: 790px;
-  clear: both;
-  display: block;
-}
-
-.spacing {
-  margin-top: 25px;
 }
